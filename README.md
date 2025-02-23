@@ -11,8 +11,8 @@ is me not me **living in the past**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📈 GitHub
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)](https://github.com/ntungg10)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)](https://github.com/ntungg10)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntungg10&show_icons=true&theme=dark)](https://github.com/ntungg10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntungg10&layout=compact&theme=dark)](https://github.com/ntungg10)
 
 ## 🔗 connect
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61568760124748)
