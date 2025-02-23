@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [ntungg]!
+# 👋 Hi, I'm ntungg!
 
 ## 🚀 introduction
 is me not me **living in the past**
